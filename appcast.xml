@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CFA</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 08 Jul 2026 16:00:44 -0600</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Initial Sparkle auto-update release.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Wes765/cfa-updates/releases/download/updates/CFA-0.1.1.zip" length="1564805" type="application/octet-stream" sparkle:edSignature="R6N4azSKjuaWQ14/Ip03EBqDgmztcakptxCtZHhA5PrdrXXh6PVwGqSm+Y+Zg1SOTWFG4meh2i9kNaL1OvymAw=="/>
+        </item>
+    </channel>
+</rss>
